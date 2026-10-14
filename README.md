@@ -54,7 +54,7 @@ Audio: 32 kHz, 128-frame processing blocks.
 - [German operating guide](docs/RTAL_Phaser_v1.0.0_Handbuch_DE.pdf)
 - [MIDI CC mapping](docs/MIDI_CC.md)
 - [Preset catalog (CSV)](sdcard_content/PRESET_CATALOG.csv)
-- [Release notes](firmware/RELEASE.md)
+- [Release notes](firmware/README.md)
 
 ## Release status
 
