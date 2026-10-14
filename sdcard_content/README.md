@@ -1,10 +1,6 @@
-# RTAL Phoenix Phaser – 128 Sound Design Presets
+# RTAL HQ Digital Phaser – 128 Sound Design Presets
 
 128 eigenstaendig abgestimmte Presets in 16 Klangfamilien zu je 8 Sounds. Die Daten sind im nativen P014-V5-Format (41 Bytes, packed, FNV-1a-Pruefsumme). Keine Presets wurden von anderen Herstellern kopiert.
-
-## ACHTUNG: Firmware-Grenze
-
-Die bereitgestellte P014-Firmware hat `PRESET_COUNT = 127`. Daher sind **001–127 sofort anwaehlbar**, waehrend **128 zwar als PRESET128.DAT und NAME128.TXT mitgeliefert wird, aber erst nach Firmware-Anpassung** nutzbar ist. MIDI Program Change ist derzeit 0–126; fuer Platz 128 muesste P014 Program Change 127 akzeptieren. Diese Soundbank aendert die Firmware nicht.
 
 ## Installation
 
