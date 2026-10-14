@@ -1,6 +1,6 @@
 # RTAL HQ Digital Phaser – 128 Sound Design Presets
 
-128 eigenstaendig abgestimmte Presets in 16 Klangfamilien zu je 8 Sounds. Die Daten sind im nativen P014-V5-Format (41 Bytes, packed, FNV-1a-Pruefsumme). Keine Presets wurden von anderen Herstellern kopiert.
+128 eigenstaendig abgestimmte Presets in 16 Klangfamilien zu je 8 Sounds. Keine Presets wurden von anderen Herstellern kopiert.
 
 ## Installation
 
