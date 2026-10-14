@@ -4,6 +4,17 @@
 
 A digital phaser inspired by the classic Moog MF-103, developed by **RealTimeAudioLab** for the Phoenix ESP32-S3 audio platform. Independent project; not affiliated with Moog Music.
 
+![MiniAmused](images/RTAL_Phaser_1.jpg)
+
+![MiniAmused](images/RTAL_Phaser_2.jpg)
+
+![MiniAmused](images/RTAL_Phaser_3.jpg)
+
+![MiniAmused](images/RTAL_Phaser_4.jpg)
+
+
+
+
 ## Features
 
 - 6-/12-stage phasing, resonance and drive
