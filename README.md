@@ -53,4 +53,6 @@ Firmware is based on the hardware-confirmed **P015 FIX5** baseline. The 128 pres
 
 No open-source license is asserted in this package. Copyright remains with the respective authors. Add a LICENSE file only after selecting the intended license and checking any third-party code dependencies.
 
+**Acknowledgements:** Bob Moog and the designers of classic synthesizers; Espressif Systems; Guition; the LVGL, Arduino and open-source audio communities.
+
 *RealTimeAudioLab · RTAL Embedded Audio Initiative · RTAL-EAI-012*
