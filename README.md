@@ -24,7 +24,7 @@ A digital phaser inspired by the classic Moog MF-103, developed by **RealTimeAud
 - Envelope follower and two-slot modulation matrix
 - Encoder-based OLED interface; SD preset browser
 - MIDI DIN CC control in two banks and Program Change 0–127
-- 128 SD presets (**CREATIVE V2**, 71 with active modulation matrix)
+- 128 SD presets (71 with active modulation matrix)
 
 ## Hardware
 
