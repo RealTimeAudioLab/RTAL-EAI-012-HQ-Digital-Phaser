@@ -62,7 +62,7 @@ Firmware is based on the hardware-confirmed **P015 FIX5** baseline. The 128 pres
 
 ## License
 
-GNU GENERAL PUBLIC LICENSE
+GNU GENERAL PUBLIC LICENSE, Version 3, 29 June 2007
 
 **Acknowledgements:** Bob Moog and the designers of classic synthesizers; Espressif Systems; Guition; the LVGL, Arduino and open-source audio communities.
 
