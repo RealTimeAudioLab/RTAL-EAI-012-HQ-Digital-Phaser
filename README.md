@@ -18,6 +18,8 @@ The HQ Digital Phaser combines a real-time DSP phaser engine, flexible modulatio
 
 ## Windows editor – main view
 
+![HQ Digital Phaser Editor – Logo](images/HQ_Digital_Phaser_Editor.jpg)
+
 ![HQ Digital Phaser Editor – main parameter window](images/HQ_Digital_Phaser_Editor_1.JPG)
 
 *Editor screenshot: MIDI input/output selection, SD slot, LIVE control, Undo/Redo, A/B comparison, bank backup/restore, and grouped effect parameters.*
