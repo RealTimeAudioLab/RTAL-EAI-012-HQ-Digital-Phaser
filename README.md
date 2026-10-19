@@ -138,7 +138,7 @@ See [`docs/MIDI_CC.md`](docs/MIDI_CC.md) for the full CC mapping if that file is
 
 ## License and credits
 
-The existing project README specifies **GNU General Public License v3**. Check that the repository includes the corresponding `LICENSE` file and that any bundled third-party components are distributed under compatible terms.
+**GNU General Public License v3**.
 
 © 2026 **RealTimeAudioLab** · RTAL Embedded Audio Initiative · RTAL-EAI-012.
 
