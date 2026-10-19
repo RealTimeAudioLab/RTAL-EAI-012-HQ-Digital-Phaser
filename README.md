@@ -8,8 +8,6 @@ The HQ Digital Phaser combines a real-time DSP phaser engine, flexible modulatio
 
 ## Hardware photographs
 
-The following four image references are retained from the existing repository. Keep the original files in `images/`:
-
 ![HQ Digital Phaser – hardware photo 1](images/RTAL_Phaser_1.jpg)
 
 ![HQ Digital Phaser – hardware photo 2](images/RTAL_Phaser_2.jpg)
