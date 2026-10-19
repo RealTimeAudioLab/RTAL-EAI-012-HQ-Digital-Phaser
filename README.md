@@ -6,8 +6,6 @@ A digital stereo phaser inspired by the classic **Moog MF-103** concept, develop
 
 The HQ Digital Phaser combines a real-time DSP phaser engine, flexible modulation, MIDI control, a 128-preset SD soundbank, and a dedicated Windows editor with bidirectional MIDI communication and a two-bank librarian.
 
-> **Version note:** The original standalone firmware release was documented as **v1.0.0 FINAL (P015 FIX5 basis)**. The newer, hardware-tested **Windows Editor V1.0 RC5 FIX2** communicates with **P016 FIX4b** firmware. These are distinct release lines. The Windows editor's V1.0.0 FINAL release is **not yet published**. The project was previously called *RTAL Phoenix Phaser*; legacy SD paths and protocol identifiers remain unchanged for compatibility.
-
 ## Hardware photographs
 
 The following four image references are retained from the existing repository. Keep the original files in `images/`:
