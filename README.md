@@ -103,8 +103,6 @@ The **PRO LIBRARIAN (A / B)** opens two independent PC banks side by side. It su
 5. Copy a compatible soundbank to `/RTAL_PHASER/` on the SD card, preserving existing personal presets and `MIDI.CFG` where appropriate.
 6. Connect audio at a moderate level, start the unit, and test an existing preset.
 
-**Compatibility:** The editor's proven MIDI backup/restore functionality requires the corresponding **P016 FIX4b** firmware. Do not assume that the older P015 release implements the newer editor SysEx commands.
-
 ## Windows editor setup
 
 The current editor is distributed as a **Windows Build Kit**. On a Windows PC, extract the kit and run `BUILD_WINDOWS_EXE.cmd` to build a standalone executable. The resulting application is named **HQ_Digital_Phaser_Editor.exe** in the renamed build line. If using an earlier kit, check the filename supplied with that version. The executable does not require Python on the target PC after it has been built.
@@ -126,14 +124,10 @@ See [`docs/MIDI_CC.md`](docs/MIDI_CC.md) for the full CC mapping if that file is
 
 | Component | Current documented status |
 |---|---|
-| Standalone firmware v1.0.0 (P015 FIX5 basis) | Historical firmware release; original documentation retained |
-| Editor-compatible firmware P016 FIX4b | Hardware-tested with MIDI editor |
-| Windows editor V1.0 RC4 | User-tested: performance UI, Undo/Redo, A/B |
-| Windows editor V1.0 RC5 FIX1 | User-tested: MIDI port memory |
-| Windows editor V1.0 RC5 FIX2 | SD slot defaults to 1; separate final test confirmation not recorded here |
-| Editor V1.0.0 FINAL | Planned, not yet released |
-
-The project name is now **HQ Digital Phaser**. Older references to *RTAL Phoenix Phaser* may still appear in historical firmware folders, data paths, or file formats by design.
+| Editor-compatible firmware v1.0.0 | Hardware-tested with MIDI editor |
+| Windows editor V1.0 | User-tested: performance UI, Undo/Redo, A/B |
+| Windows editor V1.0 | User-tested: MIDI port memory |
+| Editor V1.0.0 FINAL | User-tested |
 
 ## Documentation and repository layout
 
